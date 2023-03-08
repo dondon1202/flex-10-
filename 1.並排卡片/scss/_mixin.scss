@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items {
+    color: $text-color;
+    font-weight: bolder;
+    margin: 5px;
+    background-color: white;
+    width: 250px;
+}
+
+.container {
+    padding: 30px;
+    background-color: rgb(90, 82, 70);
+}
